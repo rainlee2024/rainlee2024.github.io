@@ -33,11 +33,11 @@ education:
     year: 2018 – 2024
     
   - course: Master of Economics, China Center for Economic Research (CCER)
-    institution: Peking University	Beijing, China
+    institution: Peking University,	Beijing, China
     year:  2015 - 2018
 
   - course: Bachelor of Management, Double Major in Finance
-    institution: University of International Business and Economics 	Beijing, China
+    institution: University of International Business and Economics, 	Beijing, China
     year:  2011 – 2015
      
 
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:yuliworkingm@gmail.com  # mail
+  link: mailto:yuli@saif.sjtu.edu.cn  # mail
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/erawijantaript
