@@ -1,0 +1,74 @@
+// Override this file to add your own SCSS styling.
+
+
+.cv-language-block-wrap {
+
+  .block-language-icon {
+    margin-right: 0.5rem;
+  }
+}
+.block-language-icon {
+  color: #2962ff;
+}
+
+
+.news-list-wrap{
+
+  .time-line-content-wrap {
+    display: flex;
+    align-items: center;
+  }
+
+
+  .news-line-content, .circle-wrap {
+    padding: 1rem 0 0 0;
+  }
+
+    .circle-dot {
+      border: 1px solid #2962ff;
+      border-radius: 50%;
+      width: 0.7rem;
+      height: 0.7rem;
+      margin: 0 1rem 0 0;
+    }
+
+}
+
+.home-section {
+  ul li {
+    list-style-type: disc;
+    margin-top: 1rem;
+  }
+  ul li::marker{
+    color:  #2962ff;
+    //font-size: 0.5rem;
+  }
+
+  .home-li-2nd {
+    li {
+      list-style-type: circle;
+      color: #515151;
+      font-size: 0.9rem;
+    }
+    li::marker{
+      color:  #515151;
+    }
+  }
+}
+
+.publication-title {
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1.5;
+  //display: inline-block;
+}
+.article-metadata {
+  color: #515151 !important;
+  font-size: 1rem;
+}
+
+.teaching-time {
+  font-weight: normal !important;
+  color: #515151;
+  font-size: 0.9rem;
+}
