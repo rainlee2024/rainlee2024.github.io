@@ -28,8 +28,8 @@
               </span>
               {{- end -}}
 
-              {{ with .link1_url }} <a  href="{{ . }}" target="_blank" style="color: #000;"> {{ end }}
-              {{.title | markdownify | emojify}}
+              {{ with .link1_url }} <a  href="{{ . }}" target="_blank"  > {{ end }}
+              {{ .title | markdownify | emojify }}
               {{ with .link1_url }} </a> {{ end }}
           </div>
 
