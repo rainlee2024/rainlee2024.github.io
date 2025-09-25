@@ -21,14 +21,8 @@
 
         {{ range $page.Params.research_lists}}
           <li>
-          <div class="publication-title  "  >
-              {{- with .org_year -}}
-                <span class="card-subtitle my-0  " style="color: #2e8bc0;">
-                  [{{- . | markdownify | emojify -}}]
-              </span>
-              {{- end -}}
-
-              {{ with .link1_url }} <a  href="{{ . }}" target='_blank' style='color: #000;'  > {{ end }}
+          <div class="publication-title"  >
+              {{ with .link1_url }} <a  href="{{ . }}" target="_blank" style="color: #000;"   > {{ end }}
               {{ .title | markdownify | emojify }}
               {{ with .link1_url }} </a> {{ end }}
           </div>
