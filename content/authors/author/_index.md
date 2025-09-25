@@ -26,21 +26,6 @@ interests:
 - Consumption price
 - Climate risk
 
-# education:
-#   courses:
-#   - course: Ph.D. in Finance, Carlson School of Management
-#     institution: University of Minnesota, Twin Cities	Minneapolis, U.S
-#     year: 2018 – 2024
-    
-#   - course: Master of Economics, China Center for Economic Research (CCER)
-#     institution: Peking University,	Beijing, China
-#     year:  2015 - 2018
-
-#   - course: Bachelor of Management, Double Major in Finance
-#     institution: University of International Business and Economics, 	Beijing, China
-#     year:  2011 – 2015
-     
-
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
