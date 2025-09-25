@@ -13,11 +13,10 @@ subtitle: ""
 #date_format: "Jan 2006"
 
 research_lists:
-  - title: "Risk for Price: Using Generalized Demand System for Asset Pricing"
+  - title: "Risk for Price: Using Generalized Demand System for Asset Pricing" link1_url: https://drive.google.com/file/d/1_7iwUCPr1q8fpcxNxA5wHIvSGANQy5hZ/view?usp=sharing 
     desc1: "Abstract: I construct a pricing kernel with consumption prices and expenditure by decomposing consumer's marginal utility. This pricing kernel explains variation of expected returns across equity portfolios. Consumption-CAPM works when detailed prices are included. "
     desc2: "Selected Presentations: Stanford SITE 2022 (New Frontier of Asset Pricing), 3rd Frontiers of Factor Investing Conference – Poster Session, 19th Chinese Finance Annual Meeting (CFAM); 62nd Annual Southwestern Finance Association (SWFA) Conference, 2023 CFRI&CIRF Joint Conference, Antai College, Shanghai Jiao Tong University, Cheung Kong GSB, Shanghai University of Finance and Economics, Shanghai Advanced Institute of Finance, 2024 Asia Meeting of the Econometric Society, 2024 Five Star Workshop in Finance, 2024 European Winter Meeting of the Econometric Society, 2025 AFFECT workshop"
-    link1_url: https://drive.google.com/file/d/1_7iwUCPr1q8fpcxNxA5wHIvSGANQy5hZ/view?usp=sharing
-    link1_label: draft
+
        
   - title: "Intangible Capital around the World (joint with Juliana Salomao, Frederico Belo, Maria Ana Vitorino)"
     desc1: "Abstract:  We estimate the structural Q-theory model with both physical capital and intangible capital in each major equity market. The contribution of intangible capital to the firm’s market value is large across markets. Geographical variation of intangible capital adjustment cost is larger than that of physical capital. "
